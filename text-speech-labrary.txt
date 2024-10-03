@@ -1,0 +1,20 @@
+Mozilla TTS: This is an open-source project that provides high-quality text-to-speech synthesis. It's based on deep learning models and offers more control over the voice and pronunciation compared to gTTS. You can train custom models and use pre-trained ones.
+
+GitHub: Mozilla TTS
+Installation: pip install TTS
+pyttsx3: This is a text-to-speech conversion library in Python that works offline and provides more flexibility. It supports multiple TTS engines, including SAPI5 (Windows) and NSSpeechSynthesizer (macOS).
+
+GitHub: pyttsx3
+Installation: pip install pyttsx3
+Coqui TTS: A fork of Mozilla TTS, Coqui TTS also offers high-quality, open-source text-to-speech capabilities. It supports multiple languages and voices and can be used for various applications.
+
+GitHub: Coqui TTS
+Installation: pip install coqui-tts
+Festival: An open-source, general multi-lingual speech synthesis system that offers a variety of voices and options for text-to-speech synthesis.
+
+Website: Festival
+Installation: Festival is available on Linux distributions and can be installed via package managers (e.g., sudo apt-get install festival).
+eSpeak: An open-source software speech synthesizer for English and other languages. It's compact and suitable for embedded systems.
+
+Website: eSpeak
+Installation: Available through package managers or can be installed from source.
